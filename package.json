@@ -1,0 +1,22 @@
+{
+  "name": "jems-di-typescript",
+  "version": "1.0.0",
+  "description": "Represents an @Jems/di extension to obtain metadata from a typescript project to register types and alias expectations in the kernel.",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscomerdot/jems-di-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscomerdot/jems-di-typescript/issues"
+  },
+  "homepage": "https://github.com/franciscomerdot/jems-di-typescript#readme"
+}
